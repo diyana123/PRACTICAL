@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda:ital,opsz@1,6..96&family=Montserrat&family=Roboto+Slab:wght@500&display=swap');
+
+
+
+.srilanka-map-box{
+    position: absolute;
+    left: 50px;
+    top: 20px;
+    z-index: 1;
+}
+.img{
+    vertical-align: middle;
+}
+
+.card{
+    background: #FFFFFF;
+    padding: 60px 40px;
+    font-size: 17px;
+    width: 340px;
+    box-shadow: 1px 5px 20px #9a9a9a;
+    position: absolute;
+    right:209px;
+    top: 15%;
+}
+.text{
+    font-family: 'Bodoni Moda', serif;
+    color: #77328b;
+    font-size: 30px;
+}
+
+.button{
+    font-family: 'Bodoni Moda', serif;  
+    font-size: 17px;
+}
+
+
